@@ -1,0 +1,11 @@
+{
+  "name": "tahta",
+  "private": true,
+  "description": "Tahta: Borsa İstanbul ve ABD piyasaları üzerinde finansal okuryazarlık simülasyon oyunu",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "lint": "pnpm -r lint"
+  },
+  "engines": { "node": ">=22" }
+}
