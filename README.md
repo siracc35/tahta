@@ -28,7 +28,7 @@ Web (React + TS) ──REST/WebSocket──► API (NestJS)
 ## Yol haritası
 
 - [x] Monorepo iskeleti
-- [ ] Emir eşleştirme motoru + testler
+- [x] Emir eşleştirme motoru + testler
 - [ ] API: auth, portföy, emirler
 - [ ] Simülasyon motoru (geçmiş replay + sentetik piyasa)
 - [ ] Web arayüzü, canlı fiyat akışı (WebSocket)
